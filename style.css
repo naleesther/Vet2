@@ -1,0 +1,378 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    margin-top: 3%;
+    margin-left: 11%;
+}
+.line{
+    display: flex;
+    color: #f57e1c;
+    align-items: center;
+}
+.line p1{
+    margin-left: 30px;
+}
+.emy{
+    background-color: #f57e1c;
+    width: 60px;
+    height: 2px;
+    margin-left: 20px;
+}
+.cover{
+    background-color: rgb(199, 235, 223);
+}
+.container{
+    /* height: 100vh; */
+    background-color:rgb(199, 235, 223);
+    background-position: fixed;
+}
+.p1{
+    margin-left: 90px;
+}
+.navbar{
+    display: flex;
+    justify-items: center;
+    
+}
+nav{
+    flex: 1;
+    padding-left: 600px;
+}
+nav  ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0px 20px;
+    outline: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: #603e23;
+    margin-left: 90px;
+}
+.btn{
+    background-color: #6e6ead;
+    background-color: #00A3AC;
+    padding: 17px;
+    margin-top: 18px;
+    margin-left: 7%;
+    border: none;
+    border-radius: 18%;
+}
+.images{
+    float: right;
+    padding-right: 30px;
+    border:solid rgb(184, 177, 177);
+    border-width: 60px;
+    border-radius: 50%;
+    
+}
+.section2{
+    display: flex;
+    margin-left: 2%;
+    margin-top: 4%;
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.section2 p{
+    margin-left: 50px;
+    margin-left: 30%;
+    /* margin-top: 8%; */
+}
+.content i{
+    background-color: antiquewhite;
+    border-radius: 20%;
+    margin-right: 8%;
+    padding: 1.4%;
+    /* margin-left: 5%; */
+}
+.content h1{
+    justify-content: center;
+    font-size: 60px;
+    font-weight: 100;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color: #6e6ead;
+    margin-left: 90px;
+}
+.content-b
+{
+    display: flex;
+
+}
+.page{
+    margin-left: 8%;
+    display: flex;
+    margin-top: 4%;
+
+}
+.page p{
+    margin-left: 30%;
+}
+.page1{
+
+    background-color: azure;
+    font-size: small;
+    margin-left: 2%;
+    margin-left: 8%;
+    margin-top: 2%;
+    padding: 4%;
+}
+.page2{
+    background-color: azure;
+    font-size: small;
+    margin-top: 2%;
+    padding: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.page2 cont2{
+    border-radius: 50%;
+}
+
+.content p{
+    font-size: 20px;
+    color: #232d60;
+    margin-left: 90px;
+}
+.container1{
+    font-size: x-large;
+    background-color: #ddeef7;
+    height: 100vh;
+    /* height: 120vh; */
+    margin-top: 5%
+
+}
+.concept{
+    display: flex;
+    margin-top: 5%;
+    margin-top: 2%;
+    /* justify-content: center; */
+    /* margin-left: 10%; */
+}
+.line1{
+    margin-left: 7%;
+    background-color: white;
+    height:35vh;
+    width: 2850px;
+    padding:2% ;
+    margin-top: 5%;
+
+}
+.line2{
+    margin-left: 20%;
+    margin-left: 10%;
+    /* margin-right: 4%; */
+    background-color: white;
+    height:35vh;
+     width:2800px;
+    width:2800px;
+    padding: 2%;
+    margin-top: 5%;
+
+
+
+}
+.line3{
+    margin-right: 5%;
+      margin-left: 20%;
+    margin-left: 5%;
+      margin-left: 10%;
+    background-color: white;
+    height:35vh;
+     width:2800px;
+    width:2800px;
+    padding: 2%;
+    margin-top: 5%;
+
+}
+
+.concept2{
+    display: flex;
+    margin-top: 5%;
+}
+.line4{
+    margin-left: 6%;
+    background-color: white;
+    height:35vh;
+    padding: 2%;
+}
+.line5{
+    margin-left: 5%;
+    background-color: white;
+    height:35vh;
+    padding: 2%;
+}
+.line6{
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: white;
+    height:35vh;
+    padding: 2%;
+}
+ .best{
+     background-color: #d2fdff;
+ }
+ .vet{
+   margin-left: -70%;
+   margin-top: 5%;
+   margin-top: 20%;
+ }
+ .best img{
+     
+margin-top: 13%;
+margin-left: 10%;
+
+     
+ }
+ .paragraph{
+     margin-left: 60%;
+     margin-top: -400px;
+     font-size: x-large;
+ }
+ .paragraph h3{
+  margin-right: 30%;
+  margin-top: 8%;
+  font-size:x-large;
+  background-color: #58d0ff;
+  border-radius: 10%;
+  width: 20%;
+  height:20% ;
+ }
+ .section6 h1{
+     margin-top: 8%;
+     font-size: 65px;
+     margin-left: 4%;
+ }
+ .patients p{
+     font-size: x-large;
+     margin-left :950px; 
+     margin-top: -3%;
+ }
+ .section3{
+     margin-left: 85%;
+     margin-top: 15%;
+     color: #00A3AC;
+ }
+ .arrow h1{
+margin-left: -210px;
+margin-bottom: -14%;
+ }
+ .words{
+     margin-left: -1300px;
+     color: #000000;
+     margin-top: 30%;
+ }
+ .words p{
+     font-size: x-large;
+ }
+ .starss{
+     color: #f57e1c;
+ }
+ .feedback{
+    margin-left: 1000px;
+    margin-top: -15.5%;
+ }
+ .stars{
+     color: #f57e1c;
+     margin-bottom: 10px;
+ }
+ .About{
+     background-color: #d9f3ef;
+ }
+ .About h1{
+     margin-top: 9%;
+     margin-bottom: 9%;
+     font-size: 50px;
+ }
+ .doctors img{
+  margin-top: 2%;
+  width: 30%; 
+  height: 20%;
+
+ }
+ .doctors h2{
+   margin-top: 2%;
+ }
+ .doctors p{
+     margin-top: 1%;
+ }
+
+ .Anna {
+     margin-left: 50%;
+     margin-top: -38%; 
+ }
+ .Mitchel{
+     margin-left:70% ;
+     margin-top: -38%;
+     margin-right: -15%;
+ }
+ #close{
+    margin-top: 9%;
+  }
+  .sub{
+    margin-left: 20%;
+    background-color:#a7e6e9 ;
+    height: 300px;
+    width: 60%;
+    text-align: center;
+    border-radius: 5px;
+  }
+  button2{
+      color: #00A3AC;
+      border-radius: 8%;
+      font-size: xx-large;
+      background-color: #07868f;
+      height: 20%;
+      text-decoration-color: #d9f3ef;
+      margin-left: -18%;
+  }
+  .lans{
+    padding: 5%;
+  }
+  input{
+    width: 600px;
+    height: 80px;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+ }
+ .footer h5{
+     margin-top: -5%;
+     font-size: xx-large;
+     margin-bottom: 3%;
+ }
+.footer{
+    margin-top: 23%;
+}
+.footer2{
+    margin-left: 33%;
+    margin-top: -16%;
+}
+.footer2 h6{
+    margin-top:-5%;
+    margin-bottom:4% ;
+    font-size: xx-large;
+}
+.footer3{
+    margin-left: 55%;
+    margin-top: -16%;
+}
+.footer3 h4{
+  font-size: xx-large;
+  margin-top:-5% ;
+  margin-bottom: 7%;
+}
+.footer4{
+    margin-left:80% ;
+    margin-top: -19%;
+}
+.footer4 h1{
+    font-size: xx-large;
+}
+  
+    
